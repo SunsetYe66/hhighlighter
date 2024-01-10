@@ -22,7 +22,7 @@
 
 # Check for the ack command
 
-
+unalias h
 
 h() {
 
